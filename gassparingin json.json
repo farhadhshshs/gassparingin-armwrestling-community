@@ -1,0 +1,11 @@
+{
+    "title": "My Awesome Website",
+    "description": "This website is created to showcase our group activities.",
+    "image": {
+        "url": "your-image-url.jpg",
+        "alt": "Group Photo"
+    },
+    "footer": {
+        "text": "© 2023 My Awesome Website"
+    }
+}
